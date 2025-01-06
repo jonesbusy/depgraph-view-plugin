@@ -208,7 +208,7 @@ public abstract class AbstractDependencyGraphAction implements Action {
 
     @Override
     public String getIconFileName() {
-        return "graph.gif";
+        return "symbol-graph plugin-depgraph-view";
     }
 
     @Override
